@@ -1,0 +1,196 @@
+.div1{
+    background-color: green;
+    height: 90vh;
+    width: 50vh;
+    position: relative;
+    left: 80vh;
+    border: 10px rgb(59, 7, 9) solid;
+}
+.redb{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: 12vh;
+    border-radius: 50vh;
+    
+}
+.redb1{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 22vh;
+    top: 9vh;
+    border-radius: 50vh;
+    
+}
+.redb2{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 25vh;
+    top: 3vh;
+    border-radius: 50vh;
+    
+}
+.redb3{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: 0vh;
+    border-radius: 50vh;
+    
+}
+
+.redb4{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 20.5vh;
+    top: -6vh;
+    border-radius: 50vh;
+    
+}
+.redb5{
+    background-color: red;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 26.4vh;
+    top: -11.5vh;
+    border-radius: 50vh;
+    
+}
+.redb6{
+    background-color: rgb(0, 0, 0);
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: -32vh;
+    border-radius: 50vh;
+    
+}
+.redb7{
+    background-color:rgb(206, 129, 140);
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: -15vh;
+    border-radius: 50vh;
+    
+}
+.redb8{
+    background-color:brown;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: 8vh;
+    border-radius: 50vh;
+    
+}
+.redb9{
+    background-color:darkgreen;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 10vh;
+    top: 2vh;
+    border-radius: 50vh;
+
+    
+}
+.redb10{
+    background-color:yellow;
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 35.5vh;
+    top: -3.4vh;
+    border-radius: 50vh;
+    
+}
+
+.redb11{
+    background-color:rgb(38, 0, 255);
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: -25vh;
+    border-radius: 50vh;
+    
+}
+.hr1{
+    height: 90vh;
+    width: 10px;
+    bottom: 72.5vh;
+    position: relative;
+    border: goldenrod;
+    background-color: goldenrod;
+    left: 24vh;
+    border-radius: 2px;
+}
+.hr2{
+    height: 90vh;
+    width: 10px;
+    bottom: 163.5vh;
+    position: relative;
+    border: goldenrod;
+    background-color: goldenrod;
+    right: 24vh;
+    border-radius: 2px;
+}
+.hr3{
+    position: relative;
+    border: goldenrod;
+    background-color: goldenrod;
+    border-radius: 2px;
+    width: 50vh;
+    height: 10px;
+    bottom: 166vh;
+
+}
+.hr4{
+    position: relative;
+    border: goldenrod;
+    background-color: goldenrod;
+    border-radius: 2px;
+    width: 50vh;
+    height: 10px;
+    bottom: 258vh;
+
+}
+.poket1{
+    background-color:rgb(0, 0, 0);
+    height: 30px;
+    width: 30px;
+    position: relative;
+    border-radius: 50vh;
+    bottom: 173vh;
+    right: 1vh;
+}
+.three{
+    position: relative;
+    top: 50px;
+}
+.blueb{
+    background-color:rgb(38, 0, 255);
+    height: 20px;
+    width: 20px;
+    position: relative;
+    left: 23.5vh;
+    top: -25vh;
+    border-radius: 50vh;
+}
+.borders{
+    top: 50px;
+}
